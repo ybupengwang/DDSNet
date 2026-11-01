@@ -4,7 +4,7 @@ Towards Automated Pediatric Dental Development Staging: A Dataset and Model (MIC
 
 
 <div align="center">
-  <img src="./logo.png" style="width:80%; max-width:800px;">
+  <img src="https://github.com/ybupengwang/LM-PCVMNet/blob/main/logo.png" style="width:80%; max-width:800px;">
 </div>
 
 ## Dataset
