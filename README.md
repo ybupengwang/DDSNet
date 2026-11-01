@@ -1,1 +1,15 @@
-dataset：https://yp.ybu.edu.cn:443/link/114F7FD2765B3DAB314F0F7AC7E9FA9F
+
+# DentalDS
+Towards Automated Pediatric Dental Development Staging: A Dataset and Model (MICCAI2025 Spotlight)
+
+
+<div align="center">
+  <img src="./logo.png" style="width:80%; max-width:800px;">
+</div>
+
+## Dataset
+
+★ Our dataset is available for reserach purpose only. To apply for PCVM+ dataset, please fill out [the form](https://github.com/ybupengwang/LM-PCVMNet/blob/main/application.pdf)  and 
+send the signed e-copy to Peng Wang (email: pwang@ybu.edu.cn) and Pro. Tao Li 
+(email: litao@nankai.edu.cn) . Upon receiving the data registration form, we will send you the dataset link, providing access to 1,500 images and their corresponding annotations from DentalDS for academic research purposes.
+
